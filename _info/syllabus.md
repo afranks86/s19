@@ -18,13 +18,13 @@ The course teaches critical concepts and skills in computer programming and stat
 # COURSE INFORMATION
 
 * **Instructors**: Alex Franks and Yekaterina Kharitonova (Prof. K)
-* **Lecture**: Tuesday and Thursday, 11:00am-12:15pm, Phelps 3526
+* **Lecture**: Tuesday and Thursday, 11:00am-12:15pm (Zoom)
 * **Lab / Discussion Sections**:
-  * Friday, Phelps 3525
-  * Friday, Phelps 3525
-  * Friday, Phelps 3525
-* Exam 1: Nov 1, in class; 	Exam 2: Dec 4, in class
-* Final project due Dec 11 at 5pm.
+  * Wednesday, 1-1:50
+  * Wednesday, 2-2:50
+  * Wednesday, 3-3:50
+* Midterm: 
+* Final project due  at 5pm.
 
 ## Prerequisites
 
@@ -45,11 +45,9 @@ We will also hold office hours and open-lab hours for in-person discussions. Sma
 # ASSESSMENTS AND GRADES
 Your mastery of class material will be assessed in the following ways, and final grades will be computed as follows:
 *	5% Class Participation
-*	30% Homework Assignments
-*	15% Labs
-*	20% Exam 1
-*	20% Exam 2
-*	10% Final Project
+*	50% Homework Assignments
+*	20% Labs
+*	25% Final Project
 It is certainly possible for all students to receive high grades in this course if all of you show mastery of the material on exams and complete all assignments.
 
 ## Participation
